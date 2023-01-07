@@ -1,0 +1,5 @@
+fastapi
+torch
+transformers
+pillow
+fastapi-cors
