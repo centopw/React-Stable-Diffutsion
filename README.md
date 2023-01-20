@@ -1,4 +1,4 @@
-# Stable Diffusion
+# Stable Diffusion.
 
 This project consists of an API and a React application that allow users to generate images using the [Stable Diffusion](https://github.com/CompVis/stable-diffusion) deep learning model. The API generates the images and the React application makes a request to the API to display the generated image to the user.
 
