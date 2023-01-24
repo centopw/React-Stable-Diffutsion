@@ -18,7 +18,7 @@ This project consists of an API and a React application that allow users to gene
 - Node.js
 - npm
 
-## Getting Started
+## Getting Started.
 
 ### API
 
